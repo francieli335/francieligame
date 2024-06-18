@@ -2,8 +2,7 @@
 
 Meu nome é Francieli Santos
 
--Estou estudando na [Alura]
-
+-Estou estudando na [Alura](htts://www.alura.com.br
 - Estou me desenvolvendo na linguagem Javascript
 - utilizo esse espaço para minha organização e compartilhamento dos meusa projetos desenvolvidos
 
